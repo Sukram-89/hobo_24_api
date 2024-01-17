@@ -10,5 +10,5 @@ This page has the possibility to add, edit or delete student and list all studen
 ### API:   
 POST /student: Adds a student, body: {"name":"Markus"}.  
 GET /student: Gets all students.  
-DELETE /student/{id}: Deletes student with EXAMPLE_NAME.  
-PATCH /student/{id}: Deletes all students.  
+DELETE /student/{id}: Deletes student with ID specified.  
+PATCH /student/{id}: Update student with ID specified.
