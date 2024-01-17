@@ -1,5 +1,5 @@
-## Frans API app
-This app can be used to learn how to use API's.
+## Hobo 24 API
+This app can be used to learn how to use API's and also be used to built a frontend or learn how to test automate api's.
 
 ### Run project:
 Run npm start in terminal!
